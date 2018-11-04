@@ -1,0 +1,11 @@
+svg {
+  overflow: hidden !important;
+}
+
+svg:root {
+  overflow: visible !important;
+}
+
+.social-links{
+  display: inline-block;
+}
